@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLifecycleExample</string>
+    <string name="start_anotheractivity">Start AnotherActivity</string>
+    <string name="another_activity">Another Activity</string>
+</resources>
